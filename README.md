@@ -24,6 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://rcsn03.github.io/TurismosRCS/)
+- [Acesse o projeto finalizado, online](https://rcsn03.github.io/TurismoRCS/)
 
 Feito com ♥ by Rafa :wave:
