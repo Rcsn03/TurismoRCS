@@ -9,14 +9,10 @@ Landing Page promovendo viagens na RCSTurimos. <br/>
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
-  <img alt="RCSTurismos" src=".images/Readme.jpg" width="100%">
+  <img alt="RCSTurismos" src="./images/Readme.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,8 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://rcsn03.github.io/Projeto/)
+- [Acesse o projeto finalizado, online](https://rcsn03.github.io/TurismosRCS/)
 
 Feito com ♥ by Rafa :wave:
